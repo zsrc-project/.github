@@ -1,1 +1,5 @@
 # Zero Source Project
+The Zero Source Project (zsrc.org) is an open- source, community-driven initiative dedicated to closing critical documentation gaps in the Information Technology (IT) and Cybersecurity fields. Our platform empowers professionals to collaboratively build a dynamic, crowdsourced knowledge network, featuring detailed, field-tested guides. These open-source resources go beyond official documentation by providing real-world implementation steps, security best practices, and proven troubleshooting solutions.
+
+## Our Mission
+The Zero Source Project fosters active collaboration through discussions, shared tools, and collective problem-solving. By leveraging the expertise of a global community, we aim to become the definitive hub for practitioner-led content that addresses challenges often overlooked by standard references. Our mission is to transform how technical communities discover, apply, and expand institutional knowledge- shifting from passive consumption to active co- creation of essential resources. Guided by principles of open collaboration and shared innovation, we strive to advance IT and cybersecurity documentation to new heights.
